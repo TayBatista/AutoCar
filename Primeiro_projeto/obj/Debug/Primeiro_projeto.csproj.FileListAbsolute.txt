@@ -1,0 +1,12 @@
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe.config
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.pdb
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.AssemblyReference.cache
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Form1.resources
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Properties.Resources.resources
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.GenerateResource.cache
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.exe
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.pdb
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Form2.resources
+C:\Users\tayna\OneDrive - Etec Centro Paula Souza\ETEC - des.de sistemas\SEGUNDO MÓDULO\Csharp - Carina\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Form3.resources
